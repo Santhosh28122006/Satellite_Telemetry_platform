@@ -1,4 +1,4 @@
-<img width="1432" height="1080" alt="Screenshot 2026-07-23 220612" src="https://github.com/user-attachments/assets/996cd9f8-7fc7-4636-a778-0fc5d22d19e0" /># Satellite_Telemetry_platform
+# Satellite_Telemetry_platform
 
 A backend microservices-based platform for managing satellite information, telemetry data, automated alerts, and maintenance records.
 
@@ -319,13 +319,14 @@ The following screenshots provide visual evidence of the main project functional
 ---
 ## Output
 Satellite service:
-<img width="1428" height="1077" alt="Screenshot 2026-07-23 220011" src="https://github.com/user-attachments/assets/633e78ee-5f14-46cf-ac59-06127737c6a5" />
+<img width="1432" height="1080" alt="Screenshot 2026-07-23 220612" src="https://github.com/user-attachments/assets/9a180aeb-036f-4cff-9d2a-f1a01bf4eb15" />
+
 
 Telemetry service:
 <img width="1425" height="1092" alt="Screenshot 2026-07-23 221225" src="https://github.com/user-attachments/assets/3392ab41-f59e-4ded-889c-1370b297171e" />
 
 Alert Service:
-<img width="1432" height="1080" alt="Screenshot 2026-07-23 220612" src="https://github.com/user-attachments/assets/9a180aeb-036f-4cff-9d2a-f1a01bf4eb15" />
+<img width="1428" height="1077" alt="Screenshot 2026-07-23 220011" src="https://github.com/user-attachments/assets/633e78ee-5f14-46cf-ac59-06127737c6a5" />
 
 Maintainace Service:
 <img width="1100" height="692" alt="Screenshot 2026-07-23 222321" src="https://github.com/user-attachments/assets/561bb6d8-ebf5-44cb-be3d-8d9b305b9283" />
